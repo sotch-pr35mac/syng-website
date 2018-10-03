@@ -1,0 +1,77 @@
+body {
+  /*background-color: #f2f2f2;*/
+}
+
+#landing {
+  background: linear-gradient(#FF8A00, #EF1063);
+  padding-top: 200px;
+  /*padding-bottom: 60px;*/
+  margin-top: -250px;
+  max-width: 900em;
+  width: 100%;
+}
+
+#landing h1, #landing h2, #landing h3, #landing h4, #landing h5, #landing a, #landing p {
+  color: #fff;
+  font-family: 'Raleway', 'sans-serif';
+  font-weight: 400;
+}
+
+.syng-subtitle {
+  margin-top: -30px;
+}
+
+.welcome-img {
+  display: block;
+  height: auto;
+  max-width: 90%;
+}
+
+.section-title {
+  font-family: 'Raleway', 'sans-serif';
+  font-weight: 500;
+  color: #4a4c4c;
+}
+
+section p, a {
+  color: #4a4c4c;
+}
+
+.row {
+  margin-top: 0px;
+}
+
+li {
+  font-size: .6em;
+  opacity: .6;
+  font-family: 'Raleway', 'sans-serif';
+  font-weight: 400;
+  color: #4a4c4c;
+}
+
+.download-button {
+  text-transform: none;
+}
+
+.installer {
+  font-size: .5em;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.screenshotSlide {
+  width: 60%;
+  height: auto;
+  border-style: dotted;
+  border-width: 1px;
+}
+
+.locations-label {
+  text-decoration: underline;
+}
