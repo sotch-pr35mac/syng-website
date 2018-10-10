@@ -34,6 +34,10 @@ body {
   color: #4a4c4c;
 }
 
+.section-content {
+    display: grid;
+}
+
 section p, a {
   color: #4a4c4c;
 }
